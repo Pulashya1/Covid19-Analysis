@@ -1,17 +1,5 @@
 # Time series analysis of COVID19 data using R. 
 
-[![Example figure](figures/shinyapp.png)](https://johnfmaner.shinyapps.io/covid19/)
-
-**https://johnfmaner.shinyapps.io/covid19/** 
-
-This project is a self learning experiment with time series forecasting models in R. The long term goal of this project is to build a Rshiny dashboard to forecast parameters related to the COVID-19 pandemic.  
-
-DISCLAIMER: I do not claim to be an epidemiologist in any capacity. This work in no way claims to account for easing of stay-at-home mandates, social distancing, mask usage, and other factors. 
-
-**Clone this repository:**
-
-`git clone https://github.com/johnfmaner/covid19`
-
 ## Contents 
 
 ### /app 
